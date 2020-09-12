@@ -1,0 +1,44 @@
+html, body {
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+}
+
+.d-flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+.d-table {
+    display: table;
+}
+
+.d-table-cell {
+    display: table-cell;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.center {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.margin-20 {
+    margin: 20%;
+}
+
+.padding-20 {
+    padding: 20%;
+}
+
+
+.scale-h {
+    width: 100%;
+}
+
+.scale-v {
+    height: 100%;
+}
